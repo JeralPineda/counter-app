@@ -1,0 +1,17 @@
+html,
+body {
+  background-color: #21232a;
+  color: #fff;
+  font-family: -apple-system, 'Helvetica Neue', sans-serif;
+  font-size: 1.3rem;
+  padding: 70px;
+}
+
+button {
+  padding: 8px;
+  font-size: 1rem;
+  margin-right: 5px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
