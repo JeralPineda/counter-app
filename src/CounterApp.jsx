@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import PropTypes from 'prop-types';
+import { getImagen } from './base-pruebas/11-async-await';
 
 export const CounterApp = ({ value }) => {
   const [counter, setCounter] = useState(value);
